@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### 📫 How to reach me: chongliujia@163.com
+#### 📫 How to reach me: chongliujia@163.com | chongliujia@gmail.com
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chongliujia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
