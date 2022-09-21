@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - Finish my Master Degree
 #### 🌱 I’m currently learning:
 - English
-- reinforcement learning
 #### :muscle: Things I am challenging myself with:
 - Waking up eariler to make good use of the day
 - Apply for Ph.D.
