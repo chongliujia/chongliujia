@@ -13,9 +13,8 @@ Here are some ideas to get you started:
 - review C++
 - Linux kernel
 #### :muscle: Things I am challenging myself with:
-- Waking up eariler to make good use of the day
 - Apply for Ph.D.
-- Exercising 5 days a week
+- Write a C++ network library
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about 
