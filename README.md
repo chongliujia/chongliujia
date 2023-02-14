@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 #### 🔭 I’m currently working on:
 - Finish my Master Degree
 #### 🌱 I’m currently learning:
+- Review Operating Systems
 - Linux kernel
 #### :muscle: Things I am challenging myself with:
-- Apply for Ph.D.
 - Write a C++ network library (weasel)
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
