@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - Linux kernel
 - Boost
 - Read papers
+- Rust
 #### :muscle: Things I am challenging myself with:
 - Write a C++ network library (weasel)
 <!-- 👯 I’m looking to collaborate on ...
