@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - Review Operating Systems
 - Linux kernel
 - Read papers
-- Rust
+- LLVM
 #### :muscle: Things I am challenging myself with:
 - Write a C++ network library (weasel)
 <!-- 👯 I’m looking to collaborate on ...
