@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 #### 🌱 I’m currently learning:
 - Review Operating Systems
 - Linux kernel
-- Boost
 - Read papers
 - Rust
 #### :muscle: Things I am challenging myself with:
