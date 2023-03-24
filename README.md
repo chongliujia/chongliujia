@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 #### 🌱 I’m currently learning:
 - Review Operating Systems
 - Linux kernel
-- Read papers
 - LLVM
+- Rust
 #### :muscle: Things I am challenging myself with:
 - Write a C++ network library (weasel)
 <!-- 👯 I’m looking to collaborate on ...
