@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - Finish my Master Degree
 #### 🌱 I’m currently learning:
 - Linux kernel
+- File System
+- Paper
 #### :muscle: Things I am challenging myself with:
 - Write a C++ network library (weasel)
 <!-- 👯 I’m looking to collaborate on ...
