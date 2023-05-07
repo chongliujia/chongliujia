@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### 📫 How to reach me: chongliujia@163.com | chongliujia@gmail.com
+#### 📫 How to reach me: jcl0618@iastate.edu | chongliujia@gmail.com
 
