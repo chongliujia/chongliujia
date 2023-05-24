@@ -9,7 +9,7 @@ My chinese name is 贾崇柳
 Here are some ideas to get you started:
 -->
 #### 🔭 I’m currently working on:
-- Finish my Master Degree
+- 
 #### 🌱 I’m currently learning:
 - Linux kernel
 - File System
