@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 - Linux kernel
 - File System
 - Paper
+- Write an iOS app
+
 -->
 #### :muscle: Things I am challenging myself with:
 - Read papers
