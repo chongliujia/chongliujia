@@ -1,7 +1,11 @@
-### Hi there 👋
+### Hi 👋
+<div align="center">
+  <br>
+  <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+</div>
+
 
 Welcome to my Github page! I am chongliujia.
-My chinese name is 贾崇柳
 
 <!--
 **chongliujia/chongliujia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,5 +33,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![chongliujia's Github stats](https://github-readme-stats.vercel.app/api?username=chongliujia&show_icons=true)
+
 #### 📫 How to reach me: jcl0618@iastate.edu | chongliujia@gmail.com
 
