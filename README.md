@@ -5,7 +5,7 @@
 </div>
 
 
-Welcome to my Github page! I am chongliujia.
+Welcome to my Github page! I am Chongliu Jia.
 
 <!--
 **chongliujia/chongliujia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
