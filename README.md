@@ -15,7 +15,6 @@
 
 
 Welcome to my Github page! I am Chongliu Jia. <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
-
 <!--
 **chongliujia/chongliujia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,10 +31,18 @@ Here are some ideas to get you started:
 - Build an iOS app
 
 -->
-#### :muscle: Things I am challenging myself with:
+### :muscle: Things I am challenging myself with:
 - Read papers
 - Coding
 - Write Blog
+
+### 🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about 
