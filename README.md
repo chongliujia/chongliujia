@@ -5,7 +5,6 @@
   <img src="https://cultofthepartyparrot.com/guests/congadoge.gif" width="100" height="100"/>
   <img src="https://cultofthepartyparrot.com/parrots/matrixparrot.gif" width="100" height="100"/>
   <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="100" height="100"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/ultrafastparrot.gif" width="100" height="100"/>
   <img src="https://cultofthepartyparrot.com/parrots/hd/reverseparrot.gif" width="100" height="100"/>
   <img src="https://cultofthepartyparrot.com/parrots/hd/congapartyparrot.gif" width="100" height="100"/>
   <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="100" height="100"/>
