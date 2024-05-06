@@ -24,11 +24,6 @@ Here are some ideas to get you started:
 - 
 -->
 
-<!-- #### 🌱 I’m currently learning:
-- Linux kernel
-- File System
-- Paper
-- Build an iOS app
 
 -->
 ### :muscle: Things I am challenging myself with:
@@ -48,7 +43,6 @@ Here are some ideas to get you started:
 ### 💻 OS
 ![Macos](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)&nbsp;
 
 
 <!-- 👯 I’m looking to collaborate on ...
